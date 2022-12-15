@@ -17,8 +17,8 @@ linestyle = [
 gridNumber = [10, 50, 100, 200]
 
 thickness = 0.1
-plateLength = 1.4
-plateWidth = 1.4
+plateLength = 1
+plateWidth = 1
 
 tempLeft = 100
 tempTop = 100
